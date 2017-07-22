@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/version/funkypenguin/git-docker.svg)](https://microbadger.com/images/funkypenguin/git-docker "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/funkypenguin/git-docker.svg)](https://microbadger.com/images/funkypenguin/git-docker "Get your own image badge on microbadger.com")
 # git-docker
 
 A Docker container for the git client and other system utilities provided by Alpine (e.g. BusyBox) and Curl. Useful for idempotent OS images (Hello, CentOS Atomic!) which don't include a git client.  Based on the work of https://github.com/channeladam/git-docker
